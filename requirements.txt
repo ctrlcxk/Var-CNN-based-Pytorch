@@ -1,0 +1,11 @@
+###### Requirements without Version Specifiers ######
+h5py
+tqdm
+sklearn
+torch
+torchvision
+
+###### Requirements with Version Specifiers ######
+
+torch == 1.13.0  
+torchvision == 0.14.0  
